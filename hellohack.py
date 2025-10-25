@@ -1,0 +1,1 @@
+print("Hello, HackMTY 2025!")
