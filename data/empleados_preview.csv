@@ -1,0 +1,5 @@
+empleado_id,nombre,rol,email,telefono
+1,Ana Gómez,catering,ana.gomez@example.com,+52-55-1000-0001
+2,Luis Pérez,supervisor,luis.perez@example.com,+52-55-1000-0002
+3,María Ruiz,sobrecargo,maria.ruiz@example.com,+52-55-1000-0003
+4,Jorge Díaz,catering,jorge.diaz@example.com,+52-55-1000-0004
